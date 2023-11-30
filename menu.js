@@ -12,7 +12,7 @@ exports.menu = (id, BotName, corohelp, tampilTanggal, tampilWaktu, instagram, ak
 ├≽️ *.Menu*
 ├ _Menampilkan list menu_
 ├≽️ *.Group* 
-├ https://chat.whatsapp.com/D2o2iSgtRtpFXD2PWfJBoj
+├https://chat.whatsapp.com/EP13ohHWnutGwyjI3MlPU8
 ├≽️ *.Owner*
 ├ _Info Admin bot_
 ╰═══════════════
